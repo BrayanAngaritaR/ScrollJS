@@ -5,6 +5,7 @@ This is the previous version of an existing repository. The implementation is ve
 The implementation is really easy, this is a beginner Javascript file.
 
 * Download or clone this repository
+* Include the file scroll.min.js on your JS folder.
 
 * Add **data-scrollJS** in each link from the menu on another link. The link is added by **ID**, no **Class** atribute.
 
@@ -33,7 +34,7 @@ The implementation is really easy, this is a beginner Javascript file.
 * Add **scroll.min.js** on the bottom of your HTML code
 
 ```
-<script src="js/scroll.js"></script>
+<script src="js/scroll.min.js"></script>
 ```
 
 
